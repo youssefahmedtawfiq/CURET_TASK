@@ -46,7 +46,7 @@ To test the firmware precisely against the required validation script:
 ## 📷 Media & Proof of Execution
 
 **1. Simulation (Wokwi Proof of Concept):**
-![Wokwi Simulation](Screenshot 2026-09-05 203852.png)
+![Wokwi Simulation](CURET_SIMULATION.png)
 
 
 **2. Live Hardware Execution (ESP32):**
