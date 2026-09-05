@@ -50,4 +50,4 @@ To test the firmware precisely against the required validation script:
 
 
 **2. Live Hardware Execution (ESP32):**
-[Watch the live hardware test on YouTube](ضع_رابط_فيديو_اليوتيوب_هنا)
+[Watch the live hardware test on YouTube](CURET_TASK.mp4)
